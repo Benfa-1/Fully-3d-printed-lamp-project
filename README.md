@@ -10,4 +10,4 @@ Printing the lampshade in vase mode was way harder than I thought. It took a lot
 
 The base was a lot of work too. I had to change pretty much everything so it would actually fit my hardware, because no one really makes a lamp this small that still uses a standard bulb socket. I had to line everything up super carefully so the bulb sits correctly and nothing makes contact or melts.
 
-I ended up using LED bulbs because the clearance was just too tight for a normal bulb. A regular one would’ve gotten too hot and probably melted parts of the lamp. That limitation made me rethink a lot of the design so it ended up compact, safe, and still working the way I wanted.
+I ended up using LED bulbs because the clearance was just too tight for a normal bulb. A regular one would’ve gotten too hot and probably melted parts of the lamp. That restraint made me think a lot about the design so it ended up small, safe, and still working the way I wanted.
